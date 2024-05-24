@@ -31,3 +31,9 @@ c) Competitive Benchmarking - SheIn vs. Temu and Aliexpress: Lastly, I will enga
 Step 3: Visualisation and reporting
 
 Create compelling visualizations and generate comprehensive reports highlighting key findings.
+
+
+
+Note: 
+You can read on how to generate a Youtube API key here:[Generating a Youtube API Key](https://medium.com/@chidimma-p-ogu/api-data-retrieval-generating-a-youtube-api-key-b8a84e0ee0a3)
+You can read on the different approaches to performing sentiment analysis on labelled and unlabelled data here: [Sentiment Analysis](https://medium.com/@chidimma-p-ogu/sentiment-analysis-5b9e0deb819e)
