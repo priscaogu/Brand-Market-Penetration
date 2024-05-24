@@ -35,5 +35,7 @@ Create compelling visualizations and generate comprehensive reports highlighting
 
 
 Note: 
+
 You can read on how to generate a Youtube API key here:[Generating a Youtube API Key](https://medium.com/@chidimma-p-ogu/api-data-retrieval-generating-a-youtube-api-key-b8a84e0ee0a3)
+
 You can read on the different approaches to performing sentiment analysis on labelled and unlabelled data here: [Sentiment Analysis](https://medium.com/@chidimma-p-ogu/sentiment-analysis-5b9e0deb819e)
